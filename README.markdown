@@ -26,4 +26,4 @@ A 2D platform game built using Python and Pygame Zero. The game features a hero 
 2. Clone this repository.
 3. Run the `main.py` file using the command:
    ```bash
-   pgzrun main.py
+   python main.py
